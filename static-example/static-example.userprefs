@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="csharp/csharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharp/Program.cs">
+    <Files>
+      <File FileName="csharp/Divvy.cs" Line="5" Column="5" />
+      <File FileName="csharp/Landmarks.cs" Line="38" Column="38" />
+      <File FileName="csharp/Program.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

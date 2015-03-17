@@ -1,0 +1,5 @@
+/Users/jcohen/mpcs/week10-class/static-example/csharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jcohen/mpcs/week10-class/static-example/csharp/bin/Debug/csharp.exe.mdb
+/Users/jcohen/mpcs/week10-class/static-example/csharp/bin/Debug/csharp.exe
+/Users/jcohen/mpcs/week10-class/static-example/csharp/obj/x86/Debug/csharp.exe
+/Users/jcohen/mpcs/week10-class/static-example/csharp/obj/x86/Debug/csharp.exe.mdb
